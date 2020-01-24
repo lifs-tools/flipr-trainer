@@ -1,0 +1,142 @@
+FileId	Mode	Name	Instrument	MoleculeGroup	PrecursorName	PrecursorAdduct	PPMS	File	Group	PrecursorNameAdduct	Remarks	Date
+STD_neg_MSMS_1min0238		10-HDoHE	MS:1000490	10-HDoHE	10-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0238.mzML	1min0238	10-HDoHE[M-H]1-		09.04.2018
+STD_neg_MSMS_1min0239		10-HDoHE	MS:1000490	10-HDoHE	10-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0239.mzML	1min0239	10-HDoHE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0240		10-HDoHE	MS:1000490	10-HDoHE	10-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0240.mzML	1min0240	10-HDoHE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0078		11-HDoHE	MS:1000490	11-HDoHE	11-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0078.mzML	1min0078	11-HDoHE[M-H]1-	maybe	16/8/2018
+STD_neg_MSMS_1min0079		11-HDoHE	MS:1000490	11-HDoHE	11-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0079.mzML	1min0079	11-HDoHE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0080		11-HETE	MS:1000490	11-HETE	11-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0080.mzML	1min0080	11-HETE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0081		11-HETE	MS:1000490	11-HETE	11-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0081.mzML	1min0081	11-HETE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0228		11,12-DHET{d11}	MS:1000490	11,12-DHET	11,12-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0228.mzML	1min0228	11,12-DHET{d11}[M-H]1-		09.04.2018
+STD_neg_MSMS_1min0229		11,12-DHET{d11}	MS:1000490	11,12-DHET	11,12-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0229.mzML	1min0229	11,12-DHET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0230		11,12-DHET{d11}	MS:1000490	11,12-DHET	11,12-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0230.mzML	1min0230	11,12-DHET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0076		11(12)-EET{d11}	MS:1000490	11(12)-EET	11(12)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0076.mzML	1min0076	11(12)-EET{d11}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0077		11(12)-EET{d11}	MS:1000490	11(12)-EET	11(12)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0077.mzML	1min0077	11(12)-EET{d11}[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0085		12-HEPE	MS:1000490	12-HEPE	12-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0085.mzML	1min0085	12-HEPE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0086		12-HEPE	MS:1000490	12-HEPE	12-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0086.mzML	1min0086	12-HEPE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0087		12-HETE{d8}	MS:1000490	12-HETE	12-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0087.mzML	1min0087	12-HETE{d8}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0088		12-HETE{d8}	MS:1000490	12-HETE	12-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0088.mzML	1min0088	12-HETE{d8}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0089		12-HHTrE	MS:1000490	12-HHTrE	12-HHTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0089.mzML	1min0089	12-HHTrE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0090		12-HHTrE	MS:1000490	12-HHTrE	12-HHTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0090.mzML	1min0090	12-HHTrE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0091		12-OxoETE	MS:1000490	12-OxoETE	12-OxoETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0091.mzML	1min0091	12-OxoETE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0092		12-OxoETE	MS:1000490	12-OxoETE	12-OxoETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0092.mzML	1min0092	12-OxoETE[M-H]1-	maybe	16/8/2018
+STD_neg_MSMS_1min0165		12-OxoETE	MS:1000490	12-OxoETE	12-OxoETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0165.mzML	1min0165	12-OxoETE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0082		12(13)-EpOME{d4}	MS:1000490	12(13)-EpOME	12(13)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0082.mzML	1min0082	12(13)-EpOME{d4}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0084		12(13)-EpOME{d4}	MS:1000490	12(13)-EpOME	12(13)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0084.mzML	1min0084	12(13)-EpOME{d4}[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0095		13-HODE{d4}	MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0095.mzML	1min0095	13-HODE{d4}[M-H]1-	maybe	16/8/2018
+STD_neg_MSMS_1min0096		13-HODE{d4}	MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0096.mzML	1min0096	13-HODE{d4}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0097		13-HODE{d4}	MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0097.mzML	1min0097	13-HODE{d4}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0098		13-HODE{d4}	MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0098.mzML	1min0098	13-HODE{d4}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0166		13-HODE{d4}	MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0166.mzML	1min0166	13-HODE{d4}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0099		13-HOTrE	MS:1000490	13-HOTrE	13-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0099.mzML	1min0099	13-HOTrE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0100		13-HOTrE	MS:1000490	13-HOTrE	13-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0100.mzML	1min0100	13-HOTrE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0224		14,15-DHET{d11}	MS:1000490	14,15-DHET	14,15-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0224.mzML	1min0224	14,15-DHET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0225		14,15-DHET{d11}	MS:1000490	14,15-DHET	14,15-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0225.mzML	1min0225	14,15-DHET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0101		14(15)-EET{d11}	MS:1000490	14(15)-EET	14(15)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0101.mzML	1min0101	14(15)-EET{d11}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0102		14(15)-EET{d11}	MS:1000490	14(15)-EET	14(15)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0102.mzML	1min0102	14(15)-EET{d11}[M-H]1-	maybe	16/8/2018
+STD_neg_MSMS_1min0103		14(15)-EET{d11}	MS:1000490	14(15)-EET	14(15)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0103.mzML	1min0103	14(15)-EET{d11}[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0104		14(15)-EpETE	MS:1000490	14(15)-EpETE	14(15)-EpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0104.mzML	1min0104	14(15)-EpETE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0105		14(15)-EpETE	MS:1000490	14(15)-EpETE	14(15)-EpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0105.mzML	1min0105	14(15)-EpETE[M-H]1-		16/8/2018
+STD_neg_MSMS_1min0106		14(15)-EpETE	MS:1000490	14(15)-EpETE	14(15)-EpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0106.mzML	1min0106	14(15)-EpETE[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0207		15-HEPE	MS:1000490	15-HEPE	15-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0207.mzML	1min0207	15-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0208		15-HEPE	MS:1000490	15-HEPE	15-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0208.mzML	1min0208	15-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0107		15-HETE{d8}	MS:1000490	15-HETE	15-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0107.mzML	1min0107	15-HETE{d8}[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0108		15-HETE{d8}	MS:1000490	15-HETE	15-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0108.mzML	1min0108	15-HETE{d8}[M-H]1-	ok	16/8/2018
+STD_neg_MSMS_1min0218		15d-PGJ2{d4}	MS:1000490	15d-PGJ2	15d-PGJ2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0218.mzML	1min0218	15d-PGJ2{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0219		15d-PGJ2{d4}	MS:1000490	15d-PGJ2	15d-PGJ2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0219.mzML	1min0219	15d-PGJ2{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0109		15R-LXA4	MS:1000490	15R-LXA4	15R-LXA4	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0109.mzML	1min0109	15R-LXA4[M-H]1-	maybe	17/8/2018
+STD_neg_MSMS_1min0110		15R-LXA4	MS:1000490	15R-LXA4	15R-LXA4	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0110.mzML	1min0110	15R-LXA4[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0111		15R-LXA4	MS:1000490	15R-LXA4	15R-LXA4	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0111.mzML	1min0111	15R-LXA4[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0112		16-HDoHE	MS:1000490	16-HDoHE	16-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0112.mzML	1min0112	16-HDoHE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0113		16-HDoHE	MS:1000490	16-HDoHE	16-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0113.mzML	1min0113	16-HDoHE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0114		16-HETE	MS:1000490	16-HETE	16-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0114.mzML	1min0114	16-HETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0115		16-HETE	MS:1000490	16-HETE	16-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0115.mzML	1min0115	16-HETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0199		18-HEPE	MS:1000490	18-HEPE	18-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0199.mzML	1min0199	18-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0200		18-HEPE	MS:1000490	18-HEPE	18-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0200.mzML	1min0200	18-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0203		5-HEPE	MS:1000490	5-HEPE	5-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0203.mzML	1min0203	5-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0204		5-HEPE	MS:1000490	5-HEPE	5-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0204.mzML	1min0204	5-HEPE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0214		5-HETE{d8}	MS:1000490	5-HETE	5-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0214.mzML	1min0214	5-HETE{d8}[M-H]1-	maybe	09.04.2018
+STD_neg_MSMS_1min0215		5-HETE{d8}	MS:1000490	5-HETE	5-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0215.mzML	1min0215	5-HETE{d8}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0236		5-HpETE	MS:1000490	5-HpETE	5-HpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0236.mzML	1min0236	5-HpETE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0237		5-HpETE	MS:1000490	5-HpETE	5-HpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0237.mzML	1min0237	5-HpETE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0216		5-OxoETE{d7}	MS:1000490	5-OxoETE	5-OxoETE{d7}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0216.mzML	1min0216	5-OxoETE{d7}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0217		5-OxoETE{d7}	MS:1000490	5-OxoETE	5-OxoETE{d7}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0217.mzML	1min0217	5-OxoETE{d7}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0158		5,12-DiHETE	MS:1000490	5,12-DiHETE	5,12-DiHETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0158.mzML	1min0158	5,12-DiHETE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0159		5,12-DiHETE	MS:1000490	5,12-DiHETE	5,12-DiHETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0159.mzML	1min0159	5,12-DiHETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0116		5,6-DiHETE	MS:1000490	5,6-DiHETE	5,6-DiHETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0116.mzML	1min0116	5,6-DiHETE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0117		5,6-DiHETE	MS:1000490	5,6-DiHETE	5,6-DiHETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0117.mzML	1min0117	5,6-DiHETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0226		5(6)-EET{d11}	MS:1000490	5(6)-EET	5(6)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0226.mzML	1min0226	5(6)-EET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0227		5(6)-EET{d11}	MS:1000490	5(6)-EET	5(6)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0227.mzML	1min0227	5(6)-EET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0120		8-HDoHE	MS:1000490	8-HDoHE	8-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0120.mzML	1min0120	8-HDoHE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0121		8-HDoHE	MS:1000490	8-HDoHE	8-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0121.mzML	1min0121	8-HDoHE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0122		8-HETE	MS:1000490	8-HETE	8-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0122.mzML	1min0122	8-HETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0123		8-HETE	MS:1000490	8-HETE	8-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0123.mzML	1min0123	8-HETE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0234		8,9-DHET{d11}	MS:1000490	8,9-DHET	8,9-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0234.mzML	1min0234	8,9-DHET{d11}[M-H]1-		09.04.2018
+STD_neg_MSMS_1min0235		8,9-DHET{d11}	MS:1000490	8,9-DHET	8,9-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0235.mzML	1min0235	8,9-DHET{d11}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0118		8(9)-EET{d11}	MS:1000490	8(9)-EET	8(9)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0118.mzML	1min0118	8(9)-EET{d11}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0119		8(9)-EET{d11}	MS:1000490	8(9)-EET	8(9)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0119.mzML	1min0119	8(9)-EET{d11}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0126		9-HEPE	MS:1000490	9-HEPE	9-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0126.mzML	1min0126	9-HEPE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0127		9-HEPE	MS:1000490	9-HEPE	9-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0127.mzML	1min0127	9-HEPE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0128		9-HEPE	MS:1000490	9-HEPE	9-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0128.mzML	1min0128	9-HEPE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0130		9-HETE	MS:1000490	9-HETE	9-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0130.mzML	1min0130	9-HETE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0131		9-HETE	MS:1000490	9-HETE	9-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0131.mzML	1min0131	9-HETE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0132		9-HODE	MS:1000490	9-HODE	9-HODE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0132.mzML	1min0132	9-HODE[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0133		9-HODE	MS:1000490	9-HODE	9-HODE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0133.mzML	1min0133	9-HODE[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0205		9-HOTrE	MS:1000490	9-HOTrE	9-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0205.mzML	1min0205	9-HOTrE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0206		9-HOTrE	MS:1000490	9-HOTrE	9-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0206.mzML	1min0206	9-HOTrE[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0124		9(10)-EpOME{d4}	MS:1000490	9(10)-EpOME	9(10)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0124.mzML	1min0124	9(10)-EpOME{d4}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0125		9(10)-EpOME{d4}	MS:1000490	9(10)-EpOME	9(10)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0125.mzML	1min0125	9(10)-EpOME{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0134		AA{d8}	MS:1000490	AA	AA{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0134.mzML	1min0134	AA{d8}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0135		AA{d8}	MS:1000490	AA	AA{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0135.mzML	1min0135	AA{d8}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0201		alpha-LA{d14}	MS:1000490	alpha-LA	alpha-LA{d14}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0201.mzML	1min0201	alpha-LA{d14}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0202		alpha-LA{d14}	MS:1000490	alpha-LA	alpha-LA{d14}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0202.mzML	1min0202	alpha-LA{d14}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0136		DHA{d5}	MS:1000490	DHA	DHA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0136.mzML	1min0136	DHA{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0137		DHA{d5}	MS:1000490	DHA	DHA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0137.mzML	1min0137	DHA{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0138		DHA{d5}	MS:1000490	DHA	DHA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0138.mzML	1min0138	DHA{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0139		EPA{d5}	MS:1000490	EPA	EPA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0139.mzML	1min0139	EPA[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0140		EPA{d5}	MS:1000490	EPA	EPA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0140.mzML	1min0140	EPA{d5}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0141		EPA{d5}	MS:1000490	EPA	EPA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0141.mzML	1min0141	EPA{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0160		LA{d11}	MS:1000490	LA	LA{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0160.mzML	1min0160	LA{d11}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0161		LA{d11}	MS:1000490	LA	LA{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0161.mzML	1min0161	LA{d11}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0162		LA{d11}	MS:1000490	LA	LA{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0162.mzML	1min0162	LA{d11}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0143		LA{d4}	MS:1000490	LA	LA{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0143.mzML	1min0143	LA{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0144		LA{d4}	MS:1000490	LA	LA{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0144.mzML	1min0144	LA{d4}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0145		LTB4{d4}	MS:1000490	LTB4	LTB4{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0145.mzML	1min0145	LTB4{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0146		LTB4{d4}	MS:1000490	LTB4	LTB4{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0146.mzML	1min0146	LTB4{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0147		LTB4{d4}	MS:1000490	LTB4	LTB4{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0147.mzML	1min0147	LTB4{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0231		LTC4{d5}	MS:1000490	LTC4	LTC4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0231.mzML	1min0231	LTC4{d5}[M-H]1-	maybe	09.04.2018
+STD_neg_MSMS_1min0232		LTC4{d5}	MS:1000490	LTC4	LTC4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0232.mzML	1min0232	LTC4{d5}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0233		LTC4{d5}	MS:1000490	LTC4	LTC4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0233.mzML	1min0233	LTC4{d5}[M-H]1-		09.04.2018
+STD_neg_MSMS_1min0222		LTD4{d5}	MS:1000490	LTD4	LTD4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0222.mzML	1min0222	LTD4{d5}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0223		LTD4{d5}	MS:1000490	LTD4	LTD4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0223.mzML	1min0223	LTD4{d5}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0066		Maresin 1	MS:1000490	Maresin	Maresin 1	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0066.mzML	1min0066	Maresin 1[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0220		PGB2{d4}	MS:1000490	PGB2	PGB2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0220.mzML	1min0220	PGB2{d4}[M-H]1-	maybe	09.04.2018
+STD_neg_MSMS_1min0221		PGB2{d4}	MS:1000490	PGB2	PGB2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0221.mzML	1min0221	PGB2{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0067		PGD2{d4}	MS:1000490	PGD2	PGD2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0067.mzML	1min0067	PGD2{d4}[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0150		PGD2{d4}	MS:1000490	PGD2	PGD2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0150.mzML	1min0150	PGD2{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0151		PGD2{d4}	MS:1000490	PGD2	PGD2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0151.mzML	1min0151	PGD2{d4}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0073		PGE2{d4}	MS:1000490	PGE2	PGE2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0073.mzML	1min0073	PGE2{d4}[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0241		PGE2{d4}	MS:1000490	PGE2	PGE2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0241.mzML	1min0241	PGE2{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0242		PGE2{d4}	MS:1000490	PGE2	PGE2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0242.mzML	1min0242	PGE2{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0163		PGE2{d9}	MS:1000490	PGE2	PGE2{d9}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0163.mzML	1min0163	PGE2{d9}[M-H]1-		17/8/2018
+STD_neg_MSMS_1min0164		PGE2{d9}	MS:1000490	PGE2	PGE2{d9}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0164.mzML	1min0164	PGE2{d9}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0193		PGF2alpha{d4}	MS:1000490	PGF2alpha	PGF2alpha{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0193.mzML	1min0193	PGF2alpha{d4}[M-H]1-		09.04.2018
+STD_neg_MSMS_1min0194		PGF2alpha{d4}	MS:1000490	PGF2alpha	PGF2alpha{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0194.mzML	1min0194	PGF2alpha{d4}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0196		PGI2	MS:1000490	PGI2	PGI2	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0196.mzML	1min0196	PGI2[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0068		Resolvin D1{d5}	MS:1000490	Resolvin D1	Resolvin D1{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0068.mzML	1min0068	Resolvin D1{d5}[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0152		Resolvin D1{d5}	MS:1000490	Resolvin D1	Resolvin D1{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0152.mzML	1min0152	Resolvin D1{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0153		Resolvin D1{d5}	MS:1000490	Resolvin D1	Resolvin D1{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0153.mzML	1min0153	Resolvin D1{d5}[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0197		Resolvin D2{d5}	MS:1000490	Resolvin D2	Resolvin D2{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0197.mzML	1min0197	Resolvin D2{d5}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0198		Resolvin D2{d5}	MS:1000490	Resolvin D2	Resolvin D2{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0198.mzML	1min0198	Resolvin D2{d5}[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0209		Resolvin D3	MS:1000490	Resolvin D3	Resolvin D3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0209.mzML	1min0209	Resolvin D3[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0210		Resolvin D3	MS:1000490	Resolvin D3	Resolvin D3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0210.mzML	1min0210	Resolvin D3[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0211		Resolvin D5	MS:1000490	Resolvin D5	Resolvin D5	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0211.mzML	1min0211	Resolvin D5[M-H]1-	maybe	09.04.2018
+STD_neg_MSMS_1min0212		Resolvin D5	MS:1000490	Resolvin D5	Resolvin D5	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0212.mzML	1min0212	Resolvin D5[M-H]1-	maybe	09.04.2018
+STD_neg_MSMS_1min0213		Resolvin D5	MS:1000490	Resolvin D5	Resolvin D5	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0213.mzML	1min0213	Resolvin D5[M-H]1-	ok	09.04.2018
+STD_neg_MSMS_1min0069		tetranor-12-HETE	MS:1000490	tetranor-12-HETE	tetranor-12-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0069.mzML	1min0069	tetranor-12-HETE[M-H]1-	ok	15/8/2018
+STD_neg_MSMS_1min0070		TXB1	MS:1000490	TXB1	TXB1	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0070.mzML	1min0070	TXB1[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0154		TXB1	MS:1000490	TXB1	TXB1	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0154.mzML	1min0154	TXB1[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0155		TXB1	MS:1000490	TXB1	TXB1	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0155.mzML	1min0155	TXB1[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0071		TXB2{d4}	MS:1000490	TXB2	TXB2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0071.mzML	1min0071	TXB2{d4}[M-H]1-	ok	15/8/2018
+STD_neg_MSMS_1min0072		TXB3	MS:1000490	TXB3	TXB3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0072.mzML	1min0072	TXB3[M-H]1-		15/8/2018
+STD_neg_MSMS_1min0156		TXB3	MS:1000490	TXB3	TXB3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0156.mzML	1min0156	TXB3[M-H]1-	ok	17/8/2018
+STD_neg_MSMS_1min0157		TXB3	MS:1000490	TXB3	TXB3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0157.mzML	1min0157	TXB3[M-H]1-	ok	17/8/2018

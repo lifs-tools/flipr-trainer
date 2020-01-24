@@ -1,0 +1,20 @@
+font:
+  catalog:
+    Arial:
+      normal: Arial.ttf
+      bold: Arial_Bold.ttf
+      italic: Arial_Italic.ttf
+      bold_italic: Arial_Bold_Italic.ttf
+base:
+  font_family: Arial
+footer:
+  height: 0.75in
+  line_height: 1
+  columns: =100%
+  verso:
+    center:
+      content: '{page-number}'
+  recto:
+    center:
+      content: '{page-number}'
+
