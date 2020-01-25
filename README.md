@@ -80,4 +80,10 @@ Each line represents one measurement. The line maps a file id, the molecule name
 Measurements are stored below the `measurements` folder. The name of the subfolders is arbitrary, but needs to be part of the path referencing the mzML files from the base directory (the directory containing this README file).
 
 ### Transitions
-The transitions folder contains `.tsv` transition files that were created with LipidCreator in "development mode". The MoleculeGroup, PrecursorName and PrecursorAdduct are joined with the columns in the mapping file to generate the list of transitions to extract from the mzML file.
+The transitions folder contains `.tsv` transition files that were created with LipidCreator in "development mode". To do so, you currently need to start LipidCreator.exe from the command line
+- via cmd on Windows as `LipidCreator.exe dev`, or 
+- via shell with `mono LipidCreator.exe dev` on Linux (this requires the latest mono version installed, tested with mono 6.8). 
+
+This ensures that lipid PrecursorNames are written out in a format that can be mapped back into LipidCreator from the ce parameter file that flipR creates after the model training and selection process.
+
+The MoleculeGroup, PrecursorName and PrecursorAdduct are joined with the columns in the mapping file to generate the list of transitions to extract from the mzML file.
