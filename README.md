@@ -4,6 +4,9 @@ If you need support to set the harness up, please create a GitHub issue or conta
 
 ## Requirements
 
+### Operating System
+The code of flipr trainer has been developed and tested on Ubuntu Linux 16.04 and 18.04. It should work on other Linuxes as well, but you may have to adapt the following commands for package installation to fit to your distribution.
+
 ### Execution of the training
 - Java JRE > 1.8
 - SDKMAN 
@@ -30,7 +33,12 @@ sudo gem install prawn-templates --version 0.0.4
 ```
 
 ### Model training  
-- FLIPR (Requires R>3.5)
+
+- R >=3.5, see https://www.r-project.org/ for installation instructions
+- devtools package (to install packages from github)
+- Viridis package (color scale used for global overview plots over all instances)
+- flipR package (Requires R>=3.5, for model training and selection)
+- all other dependencies should be installed automatically
 
 ```
 install.packages(c("devtools","viridis"))
@@ -55,7 +63,7 @@ This will also create overview plots for all trained models and the supplementar
 ## Configuration
 
 ### General
-The `config` folder contains a `<INSTANCE>.properties file and an `<INSTANCE>.R` which set common properties for the model training with flipR and for the optimization bounds. The file `common.sh` defines common functions and BASH variables used by the other scripts. The `NTHREADS` will be set to half of the number of logical CPU cores available on your system. You can also set it lower, if you want to. 
+The `config` folder contains a `<INSTANCE>.properties` file and an `<INSTANCE>.R` which set common properties for the model training with flipR and for the optimization bounds. The file `common.sh` defines common functions and BASH variables used by the other scripts. The `NTHREADS` will be set to half of the number of logical CPU cores available on your system. You can also set it lower, if you want to. 
 The file also defines the command that runs the transition extractor on the mzML files, which in turn executes flipR (`CMD`). 
 
 ### Mapping measurements to transitions, configuration of PPM extraction
