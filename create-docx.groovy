@@ -105,8 +105,8 @@ ifdef::backend-pdf[]
 = {doctitle} 
 [discrete]
 == {docsubtitle}
-*Bing Peng*^[1,9,14]^, 
-*Dominik Kopczynski*^[1,9,14]^, 
+*Bing Peng*^[1,14]^, 
+*Dominik Kopczynski*^[1,14]^, 
 *Brian Pratt*^[2]^, 
 *Christer Ejsing*^[3,4]^, 
 *Bo Burla*^[5]^,
@@ -123,7 +123,7 @@ ifdef::backend-pdf[]
 *Oliver Borst*^[12]^,
 *Markus Wenk*^[5,6]^,
 *Nils Hoffmann*^[1]^,
-*Robert Ahrends*^[1,13,15]^{empty} +
+*Robert Ahrends*^[1,13,pass:[*]]^{empty} +
 ^1^Leibniz-Institut für Analytische Wissenschaften-ISAS-e.V., Dortmund, Germany{empty} +
 ^2^University of Washington, Department of Genome Sciences, Seattle, USA{empty} +
 ^3^Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark{empty} +
@@ -138,7 +138,7 @@ ifdef::backend-pdf[]
 ^12^Department of Cardiology and Cardiovascular Medicine, University of Tübingen, Tübingen, Germany{empty} +
 ^13^Institute of Analytical Chemistry, University of Vienna, Währinger Strasse 38, 1090 Vienna, Austria{empty} +
 ^14^two authors contributed equally to this work{empty} +
-^15^Corresponding author{empty}
+^pass:[*]^Corresponding author{empty}
 endif::[]
     """.stripIndent()
  out.println header
