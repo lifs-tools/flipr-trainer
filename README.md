@@ -2,6 +2,8 @@
 This collection of scripts is the training harness for CE-dependent, relative fragment intensity prediction models for LipidCreator.
 If you need support to set the harness up, please create a GitHub issue or contact us at https://lifs.isas.de/support 
 
+This project uses [flipr](https://github.com/lifs-tools/flipr) and the [flipr-transition-extractor](https://github.com/lifs-tools/flipr-transition-extractor).
+
 ## Requirements
 
 ### Operating System
