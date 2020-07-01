@@ -1,0 +1,56 @@
+Instrument	MoleculeGroup	PrecursorName	PrecursorAdduct	PPMS	File	Group
+MS:1000490	10-HDoHE	10-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0239.mzML	1min0239
+MS:1000490	11-HDoHE	11-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0079.mzML	1min0079
+MS:1000490	11-HETE	11-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0081.mzML	1min0081
+MS:1000490	11,12-DHET	11,12-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0230.mzML	1min0230
+MS:1000490	11(12)-EET	11(12)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0077.mzML	1min0077
+MS:1000490	12-HEPE	12-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0085.mzML	1min0085
+MS:1000490	12-HETE	12-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0088.mzML	1min0088
+MS:1000490	12-HHTrE	12-HHTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0089.mzML	1min0089
+MS:1000490	12-OxoETE	12-OxoETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0165.mzML	1min0165
+MS:1000490	12(13)-EpOME	12(13)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0082.mzML	1min0082
+MS:1000490	13-HODE	13-HODE{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0095.mzML	1min0095
+MS:1000490	13-HOTrE	13-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0099.mzML	1min0099
+MS:1000490	14,15-DHET	14,15-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0224.mzML	1min0224
+MS:1000490	14(15)-EET	14(15)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0101.mzML	1min0101
+MS:1000490	14(15)-EpETE	14(15)-EpETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0104.mzML	1min0104
+MS:1000490	15-HEPE	15-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0208.mzML	1min0208
+MS:1000490	15-HETE	15-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0108.mzML	1min0108
+MS:1000490	15d-PGJ2	15d-PGJ2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0219.mzML	1min0219
+MS:1000490	16-HDoHE	16-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0112.mzML	1min0112
+MS:1000490	18-HEPE	18-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0199.mzML	1min0199
+MS:1000490	5-HEPE	5-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0203.mzML	1min0203
+MS:1000490	5-HETE	5-HETE{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0215.mzML	1min0215
+MS:1000490	5-OxoETE	5-OxoETE{d7}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0217.mzML	1min0217
+MS:1000490	5,6-DiHETE	5,6-DiHETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0116.mzML	1min0116
+MS:1000490	5(6)-EET	5(6)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0227.mzML	1min0227
+MS:1000490	8-HDoHE	8-HDoHE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0120.mzML	1min0120
+MS:1000490	8-HETE	8-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0122.mzML	1min0122
+MS:1000490	8,9-DHET	8,9-DHET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0235.mzML	1min0235
+MS:1000490	8(9)-EET	8(9)-EET{d11}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0118.mzML	1min0118
+MS:1000490	9-HEPE	9-HEPE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0128.mzML	1min0128
+MS:1000490	9-HETE	9-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0130.mzML	1min0130
+MS:1000490	9-HODE	9-HODE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0132.mzML	1min0132
+MS:1000490	9-HOTrE	9-HOTrE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0205.mzML	1min0205
+MS:1000490	9(10)-EpOME	9(10)-EpOME{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0124.mzML	1min0124
+MS:1000490	AA	AA{d8}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0134.mzML	1min0134
+MS:1000490	alpha-LA	alpha-LA{d14}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0201.mzML	1min0201
+MS:1000490	DHA	DHA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0137.mzML	1min0137
+MS:1000490	EPA	EPA{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0139.mzML	1min0139
+MS:1000490	LTB4	LTB4{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0145.mzML	1min0145
+MS:1000490	LTC4	LTC4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0232.mzML	1min0232
+MS:1000490	LTD4	LTD4{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0222.mzML	1min0222
+MS:1000490	PGB2	PGB2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0220.mzML	1min0220
+MS:1000490	PGD2	PGD2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0151.mzML	1min0151
+MS:1000490	PGE2	PGE2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0241.mzML	1min0241
+MS:1000490	PGE2	PGE2{d9}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0164.mzML	1min0164
+MS:1000490	PGF2alpha	PGF2alpha{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0194.mzML	1min0194
+MS:1000490	PGI2	PGI2	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0196.mzML	1min0196
+MS:1000490	Resolvin D1	Resolvin D1{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0152.mzML	1min0152
+MS:1000490	Resolvin D2	Resolvin D2{d5}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0197.mzML	1min0197
+MS:1000490	Resolvin D3	Resolvin D3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0210.mzML	1min0210
+MS:1000490	Resolvin D5	Resolvin D5	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0212.mzML	1min0212
+MS:1000490	tetranor-12-HETE	tetranor-12-HETE	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0069.mzML	1min0069
+MS:1000490	TXB1	TXB1	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0155.mzML	1min0155
+MS:1000490	TXB2	TXB2{d4}	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0071.mzML	1min0071
+MS:1000490	TXB3	TXB3	[M-H]1-	5|10	measurements/QTof/STD_neg_MSMS_1min0072.mzML	1min0072

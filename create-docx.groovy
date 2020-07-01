@@ -105,8 +105,8 @@ ifdef::backend-pdf[]
 = {doctitle} 
 [discrete]
 == {docsubtitle}
-*Bing Peng*^[1,14]^, 
-*Dominik Kopczynski*^[1,14]^, 
+*Bing Peng*^[1,pass:[#]]^, 
+*Dominik Kopczynski*^[1,pass:[#]]^, 
 *Brian Pratt*^[2]^, 
 *Christer Ejsing*^[3,4]^, 
 *Bo Burla*^[5]^,
@@ -115,15 +115,15 @@ ifdef::backend-pdf[]
 *Sock Hwee Tan*^[7,8]^,
 *Mark Y. Chan*^[7,8,9]^,
 *Federico Torta*^[6]^,
-*Dominik Schwudke*^[10]^, 
-*Sven Meckelmann*^[11]^, 
-*Cristina Coman*^[1,8]^, 
-*Oliver J. Schmitz*^[11]^,
+*Dominik Schwudke*^[10,11,12]^, 
+*Sven Meckelmann*^[13]^, 
+*Cristina Coman*^[1,15]^, 
+*Oliver J. Schmitz*^[13]^,
 *Brendan MacLean*^[2]^,
-*Oliver Borst*^[12]^,
+*Oliver Borst*^[14]^,
 *Markus Wenk*^[5,6]^,
 *Nils Hoffmann*^[1]^,
-*Robert Ahrends*^[1,13,pass:[*]]^{empty} +
+*Robert Ahrends*^[1,15,pass:[*]]^{empty} +
 ^1^Leibniz-Institut für Analytische Wissenschaften-ISAS-e.V., Dortmund, Germany{empty} +
 ^2^University of Washington, Department of Genome Sciences, Seattle, USA{empty} +
 ^3^Department of Biochemistry and Molecular Biology, University of Southern Denmark, Odense, Denmark{empty} +
@@ -134,10 +134,12 @@ ifdef::backend-pdf[]
 ^8^Cardiovascular Research Institute, National University of Singapore, Singapore{empty} +
 ^9^National University Heart Centre, National University Health System, Singapore{empty} +
 ^10^Research Center Borstel, Leibniz Center for Medicine and Biosciences, Borstel, Germany{empty} +
-^11^Institute of Applied Analytical Chemistry, University of Duisburg-Essen, Essen, Germany{empty} +
-^12^Department of Cardiology and Cardiovascular Medicine, University of Tübingen, Tübingen, Germany{empty} +
-^13^Institute of Analytical Chemistry, University of Vienna, Währinger Strasse 38, 1090 Vienna, Austria{empty} +
-^14^two authors contributed equally to this work{empty} +
+^11^German Center for Infection Research, TTU TB, Borstel, Germany{empty} +
+^12^German Centre for Lung Research, Airway Research Center North, Borstel, Germany{empty} +
+^13^Institute of Applied Analytical Chemistry, University of Duisburg-Essen, Essen, Germany{empty} +
+^14^Department of Cardiology and Cardiovascular Medicine, University of Tübingen, Tübingen, Germany{empty} +
+^15^Institute of Analytical Chemistry, University of Vienna, Währinger Strasse 38, 1090 Vienna, Austria{empty} +
+^pass:[#]^two authors contributed equally to this work{empty} +
 ^pass:[*]^Corresponding author{empty}
 endif::[]
     """.stripIndent()

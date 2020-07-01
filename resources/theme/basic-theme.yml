@@ -13,8 +13,8 @@ footer:
   columns: =100%
   verso:
     center:
-      content: '{page-number}'
+      content: 'S3B.{page-number}'
   recto:
     center:
-      content: '{page-number}'
+      content: 'S3B.{page-number}'
 
