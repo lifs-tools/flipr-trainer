@@ -2,6 +2,8 @@
 This collection of scripts is the training harness for CE-dependent, relative fragment intensity prediction models for LipidCreator.
 If you need support to set the harness up, please create a GitHub issue or contact us at https://lifs.isas.de/support 
 
+This project uses [flipr](https://github.com/lifs-tools/flipr) and the [flipr-transition-extractor](https://github.com/lifs-tools/flipr-transition-extractor).
+
 ## Requirements
 
 ### Operating System
@@ -49,7 +51,7 @@ devtools::install_github("lifs-tools/flipr")
 ## Running the model training
 
 Please note that the model training has been tested under Ubuntu 18.04 Linux only.
-You will need to download the mzML files from the MetaboLights studies MTBLS1333 (qex-hf) and MTBLS1334 (qtof) to the respective measurements folders. E.g. `measurements/QExHF03` for the MTBLS1333 data, and `measurements/QTof` folder for the MTBLS1334 data.
+You will need to download the mzML files from the MetaboLights studies [MTBLS1333](https://www.ebi.ac.uk/metabolights/MTBLS1333) (qex-hf) and [MTBLS1334](https://www.ebi.ac.uk/metabolights/MTBLS1334) (qtof) to the respective measurements folders. E.g. `measurements/QExHF03` for the MTBLS1333 data, and `measurements/QTof` folder for the MTBLS1334 data.
 
 To run the model training for one of the two platforms (termed `INSTANCE`), proceed as follows:
 
